@@ -34,5 +34,9 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
-  }
+  },
+  "description": "react-guide",
+  "main": "index.js",
+  "author": "varunSH",
+  "license": "MIT"
 }
